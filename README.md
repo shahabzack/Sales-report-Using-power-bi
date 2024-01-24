@@ -1,10 +1,10 @@
 
-Business Insights Dashboard using Power BI
+**Business Insights Dashboard using Power BI**
 
-Overview
+**Overview**
 This repository contains a business insights dashboard created using Power BI. The dashboard provides a comprehensive view of sales, revenue, and product performance based on data collected from a MySQL database. The project includes data cleaning processes to ensure accuracy and reliability in the analytics.
 
-Project Steps
+**Project Steps**
 1. Data Collection:
     -Gathered data from a MySQL database, including sales and revenue information.
 2. Data Analysis:
@@ -16,7 +16,7 @@ Project Steps
 5. Dashboard Creation:
     -Developed a simple and intuitive dashboard in Power BI to track key business metrics.
 
-#Key Features
+**Key Features**
 - Sales Overview: Visual representation of overall sales trends.
 - Revenue Tracking: Analysis of revenue patterns and performance.
 - Product Insights: Identification of top-selling products and their impact on sales.
